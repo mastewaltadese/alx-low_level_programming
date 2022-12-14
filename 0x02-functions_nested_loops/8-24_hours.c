@@ -13,10 +13,10 @@ void jack_bauer(void)
 
 		while (mine <= 58)
 		{
-			printf("%d :%d\n", hour, mine);
+			_putchar('hour': 'mine');
 			mine++;
 		}
-	printf("%d :%d\n", hour, mine);
+	_putchar('hour' : 'mine');
 	hour++;
 }
 	return (0);
