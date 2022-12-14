@@ -1,4 +1,4 @@
-#includ "main.h"
+#include "main.h"
 /**
  * _abs - computes the ab value of int
  * @n: the int in question
