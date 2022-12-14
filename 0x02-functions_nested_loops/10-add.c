@@ -3,9 +3,9 @@
  * add - it adds two intiger number
  * Return: Always 0
  */
-int add(int,int)
+int add(int a,int b)
 {
-	int a,b,sum;
+	int sum;
 	sum = a + b;
 
 	_putchar(sum);
