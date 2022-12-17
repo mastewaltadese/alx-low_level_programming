@@ -1,4 +1,5 @@
-#define HOLBERTON_INCLUDEDE
+#ifndef HOLBERTON_H_INCLUDEDE
+#define HOLBERTON_H_INCLUDEDE
 
 int _putchar(char);
 int _isupper(int c);
@@ -13,4 +14,4 @@ void print_square(int size);
 void print_triangle(int size);
 void print_number(int n);
 
-#endde
+#endif
